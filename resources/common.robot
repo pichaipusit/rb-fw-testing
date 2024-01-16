@@ -6,7 +6,7 @@ ${url}  https://www.demoblaze.com/index.html
 
 *** Keywords ***
 Start test case
-  Open Browser  chrome
+  Open Browser
   Maximize Browser Window
 
 Finish test case
